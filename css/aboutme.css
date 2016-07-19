@@ -366,8 +366,7 @@ a:focus {
 #findme {
     width: 900px;
     padding-bottom: 120px;
-
-    background-image: url(http://www.gravatar.com/avatar/318643095c83b914cf80a7f99f247fe6?s=160);
+    background-image: url(https://avatars1.githubusercontent.com/u/4197468?v=3&s=250);
     background-position: bottom right;
     background-repeat: no-repeat;
 }
@@ -388,7 +387,6 @@ a:focus {
     -ms-transform:     translateZ(40px);
     -o-transform:      translateZ(40px);
      transform:        translateZ(40px);
-
     -webkit-transition: 0.5s;
     -moz-transition:    0.5s;
     -ms-transition:     0.5s;
@@ -463,8 +461,7 @@ a:focus {
 #back {
     width: 700px;
     padding-bottom: 400px;
-
-    background-image: url(https://avatars1.githubusercontent.com/u/4197468?v=3&s=400);
+    background-image: url(https://dn-coding-net-production-static.qbox.me/91d0106b-7774-4878-b72e-304fcf2059af.png?imageMogr2/auto-orient/format/png/crop/!600x400a19a0);
     background-position: bottom right;
     background-repeat: no-repeat;
 }
