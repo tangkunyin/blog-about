@@ -1448,7 +1448,7 @@ export default StyleSheet.create({
     },
     "findme": {
         "width": 900,
-        "paddingBottom": 120,
+        "paddingBottom": 150,
         "backgroundImage": "url(https://dn-coding-net-production-static.qbox.me/91d0106b-7774-4878-b72e-304fcf2059af.png?imageMogr2/auto-orient/format/png/crop/!300x220a19a0)",
         "backgroundPosition": "bottom right",
         "backgroundRepeat": "no-repeat"
@@ -1536,7 +1536,7 @@ export default StyleSheet.create({
         "transform": "translateZ(0px)"
     },
     "subcribe adv": {
-        "fontSize": 20
+        "fontSize": 18
     },
     "motto": {
         "textAlign": "center"
