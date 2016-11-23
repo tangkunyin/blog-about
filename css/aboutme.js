@@ -1453,6 +1453,12 @@ export default StyleSheet.create({
         "backgroundPosition": "bottom right",
         "backgroundRepeat": "no-repeat"
     },
+    "findme adv": {
+        "fontSize": 31,
+        "fontStyle": "oblique",
+        "color": "orange",
+        "marginBottom": 10
+    },
     "prizeme p": {
         "WebkitTransformStyle": "preserve-3d",
         "MozTransformStyle": "preserve-3d",
@@ -1536,7 +1542,10 @@ export default StyleSheet.create({
         "transform": "translateZ(0px)"
     },
     "subcribe adv": {
-        "fontSize": 18
+        "fontSize": 30,
+        "fontStyle": "oblique",
+        "color": "green",
+        "marginTop": 10
     },
     "motto": {
         "textAlign": "center"
