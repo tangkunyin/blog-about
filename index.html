@@ -12,7 +12,6 @@
     <link href="css/aboutme.css" rel="stylesheet" />
     <link rel="shortcut icon" href="favicon.png" />
     <base target="_blank">
-    <script src="js/impress.js"></script>
 </head>
 
 <body class="impress-not-supported">
@@ -126,11 +125,12 @@
 <div class="hint">
     <p>使用空格或方向键继续</p>
 </div>
+<script src="js/impress.js"></script>
 <script>
+impress().init();
 if ("ontouchstart" in document.documentElement) {
     document.querySelector(".hint").innerHTML = "<p>在左侧或右侧点击继续</p>";
 }
-impress().init();
 </script>
 <span style="display: none">
   <script src="https://s95.cnzz.com/z_stat.php?id=1261190897&web_id=1261190897" language="JavaScript"></script>
